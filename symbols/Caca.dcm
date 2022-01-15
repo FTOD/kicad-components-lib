@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC3554
+D LTC3554 2xBuck DC/DC PMIC
+K PMIC
+$ENDCMP
+#
+#End Doc Library
